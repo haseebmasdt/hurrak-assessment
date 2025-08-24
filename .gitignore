@@ -1,0 +1,14 @@
+# Node / React
+frontend/node_modules/
+frontend/.env
+
+# Laravel
+backend/vendor/
+backend/storage/
+backend/.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
